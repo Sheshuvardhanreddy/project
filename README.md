@@ -47,6 +47,9 @@ SCREENSHOTS:
 FOR THE THYROID PATIENTS WE PRERARE SAMPLE DIET:-
 ![image](https://github.com/Sheshuvardhanreddy/project/assets/142722416/1e89363a-618f-4a79-87f5-1478a0d2b292)
 
+DEMO VEDIO LINK:-
+https://drive.google.com/file/d/1i5h_hdGtyuVzZY7FlqPt2Qx_ImhXrSeg/view?usp=drivesdk
+
 
 
 
