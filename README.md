@@ -44,6 +44,11 @@ SCREENSHOTS:
 ![image](https://github.com/Sheshuvardhanreddy/project/assets/142722416/9303e3d7-c7ab-4cee-b0ce-1ee0f8413db7)
 ![y](https://github.com/Sheshuvardhanreddy/project/assets/142722416/7bb59576-125a-40ee-9c76-777201b17d93)
 
+FOR THE THYROID PATIENTS WE PRERARE SOME DIET:-
+![image](https://github.com/Sheshuvardhanreddy/project/assets/142722416/248f6748-4e92-4e7c-a06c-a17d17f3af64)
+
+
+
 
 
 
